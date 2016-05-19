@@ -1,0 +1,17 @@
+title: NoHassls API Reference
+
+language_tabs:
+  - bash
+  - php
+  - javascript
+
+toc_footers:
+  - <a href='https://developer.nohasls.co.nz'>Documentation Powered by NoHassls</a>
+
+includes:
+  - main
+  - _errors
+
+search: true
+
+highlight_theme: monokai
